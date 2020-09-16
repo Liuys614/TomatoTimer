@@ -1,5 +1,5 @@
 {
-    "name": "CountDownFreeze",
+    "name": "TomatoTimer",
     "description": "",
     "dependencies": {
         "core": "*",
