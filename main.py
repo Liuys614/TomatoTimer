@@ -56,7 +56,7 @@ State = 0
 # 2 : Rest
 State = 0
 Time_Start = 0
-ms_per_min = 6000
+ms_per_min = 60000
 
 def on_forever():
     global Time_Current, Time_Delta, State
